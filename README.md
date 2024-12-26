@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a student at **Basava International School**, 
 
 ## Skills
 - 🖥️ **Languages**: Python (Medium level), C++ (Beginner)
-- 🌐 **Web Development**: HTML, CSS, JavaScript, React (Beginner)
+- 🌐 **Web Development**: HTML, CSS, JavaScript (Medium)
 - 🛠️ **Tools & Platforms**: Git, GitHub, Visual Studio Code, Jupyter Notebooks
 
 ## Projects
